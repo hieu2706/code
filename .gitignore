@@ -1,0 +1,5 @@
+run
+release/
+*.o
+sfml-app
+*.class
